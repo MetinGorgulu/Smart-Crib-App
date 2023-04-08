@@ -1,0 +1,1 @@
+Projem Akıllı Beşik Uygulaması olup birden fazla sensör ve arduino cihazlari ile yapılmıştır. Projenin kod kısmıayrı olarak yüklenmiştir. Pdf içerisinde proje ile ilgili bilgiler, projenin oluşturulmuş halinin fotoğrafları, devre şeması gibi gerekli bütün bilgiler bulunmaktadır.
